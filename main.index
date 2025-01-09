@@ -1,33 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página Web</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-            text-align: center;
-        }
-        .container {
-            margin: 20px;
-        }
-        iframe {
-            border: none;
-            max-width: 100%;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Bienvenido a Mi Página Web</h1>
-        <p>Aquí tienes un juego que te puede interesar:</p>
-        <iframe frameborder="0" src="https://itch.io/embed/2619558?bg_color=0f877c&amp;fg_color=83fa7a&amp;link_color=06f1fb&amp;border_color=3c9fa2" width="208" height="167">
-            <a href="https://fandenintendo12.itch.io/geometrical-adventures">Geometrical Adventures by Fandenintendo12</a>
-        </iframe>
-    </div>
+    <title>GAMES AND MORE</title>
+
 </body>
 </html>
